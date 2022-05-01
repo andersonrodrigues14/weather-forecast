@@ -1,0 +1,6 @@
+module Pods_PrevTempo {
+  umbrella header "Pods-PrevTempo-umbrella.h"
+
+  export *
+  module * { export * }
+}
